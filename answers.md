@@ -31,7 +31,16 @@ Untracked files:
 
 	answers.md
 
-answer 6:
+answer 6:On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   README.md
+	modified:   answers.md
+
+
 
 answer 7: On branch master
 nothing to commit, working tree clean
@@ -52,3 +61,11 @@ Changes not staged for commit:
 	modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+answer 10: the changes were not reflected locally
+
+answer 11: the push failed because the updates made online are not on my local repository
+
+answer 12: yes
+
+answer 13: .  ..  .git  .gitignore  README.md
